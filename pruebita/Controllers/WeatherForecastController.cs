@@ -8,7 +8,7 @@ namespace pruebita.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "gxhcghkh", "verano", "MarioGey", "BreiDeMierda", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching, Roodxd,hola"
+            "gxhcghkh", "verano", "MarioGey", "BreiDeMierda", "Dyer", "Anderson", "Balmy", "Hot", "Sweltering", "Scorching, Roodxd,hola"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
